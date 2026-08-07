@@ -164,16 +164,16 @@ func recentPRs() ([]string, error) {
 			continue
 		}
 		perRepo[repo]++
-		icon := "🔄"
+		status := "opened " + item.CreatedAt.Format("2006-01-02")
 		if merged {
-			icon = "✅"
+			status = "merged " + item.PullRequest.MergedAt.Format("2006-01-02")
 		}
 		title := []rune(item.Title)
 		if len(title) > 70 {
 			title = append(title[:67], '…')
 		}
-		lines = append(lines, fmt.Sprintf("%s [%s#%d](%s) %s — %s",
-			icon, repo, item.Number, item.HTMLURL, string(title), item.CreatedAt.Format("2006-01-02")))
+		lines = append(lines, fmt.Sprintf("[%s#%d](%s) %s — %s",
+			repo, item.Number, item.HTMLURL, string(title), status))
 		if len(lines) == 6 {
 			break
 		}

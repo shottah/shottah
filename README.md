@@ -1,8 +1,6 @@
 I specialize in reading documentation.
 
-I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rust, Go, and TypeScript. Elsewhere: [shottah.xyz](https://shottah.xyz).
-
-### Things I've built
+I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rust, Go, and TypeScript. Online resume: [shottah.xyz](https://shottah.xyz).
 
 - **[tracer](https://github.com/shottah/tracer)** — headless EVM transaction inspector in Rust: call traces, balance changes, fund flows, anvil-fork tracing. An open-source Phalcon/Tenderly alternative.
 - **[expo-focus-menu](https://github.com/shottah/expo-focus-menu)** — iMessage-style long-press menus as an Expo module (Swift underneath).
@@ -10,7 +8,7 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 
 <table><tr><td valign="top" width="50%">
 
-### Recent releases
+### Releases
 
 <!-- releases starts -->
 [tracer v0.1.1](https://github.com/shottah/tracer/releases/tag/v0.1.1) — 2026-06-10
@@ -24,18 +22,18 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 
 </td><td valign="top" width="50%">
 
-### Recent PRs
+### Pull requests
 
 <!-- prs starts -->
-✅ [shottah/lineup#51](https://github.com/shottah/lineup/pull/51) feat(web): calendar week view as a drag-and-drop time-grid — 2026-07-19
+[shottah/lineup#51](https://github.com/shottah/lineup/pull/51) feat(web): calendar week view as a drag-and-drop time-grid — merged 2026-07-19
 
-✅ [shottah/lineup#50](https://github.com/shottah/lineup/pull/50) fix: unwatch toggle, fresh-seed regenerate, swap alternate cleanup,… — 2026-07-17
+[shottah/lineup#50](https://github.com/shottah/lineup/pull/50) fix: unwatch toggle, fresh-seed regenerate, swap alternate cleanup,… — merged 2026-07-17
 
-✅ [shottah/lineup#49](https://github.com/shottah/lineup/pull/49) docs: data model UML class diagram — 2026-07-17
+[shottah/lineup#49](https://github.com/shottah/lineup/pull/49) docs: data model UML class diagram — merged 2026-07-17
 
-✅ [shottah/portfolio#11](https://github.com/shottah/portfolio/pull/11) feat: add apps dropdown to sidebar (tracer) — 2026-06-13
+[shottah/portfolio#11](https://github.com/shottah/portfolio/pull/11) feat: add apps dropdown to sidebar (tracer) — merged 2026-06-13
 
-✅ [shottah/portfolio#10](https://github.com/shottah/portfolio/pull/10) feat: credit-vs-cash article + homepage articles nav — 2026-06-13
+[shottah/portfolio#10](https://github.com/shottah/portfolio/pull/10) feat: credit-vs-cash article + homepage articles nav — merged 2026-06-13
 <!-- prs ends -->
 
 </td></tr></table>
