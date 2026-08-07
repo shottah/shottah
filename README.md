@@ -38,4 +38,6 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 
 </td></tr></table>
 
+<img src="https://skillicons.dev/icons?i=ts,go,rust,cs,godot,gcp,aws,swift,java" height="36" alt="TypeScript, Go, Rust, C#, GDScript, Google Cloud, AWS, Swift, Java" />
+
 <sub>Rebuilt nightly by [GitHub Actions](https://github.com/shottah/shottah/blob/main/.github/workflows/build.yml) — the documentation reads itself now.</sub>
