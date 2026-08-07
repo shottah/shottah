@@ -1,0 +1,43 @@
+I specialize in reading documentation.
+
+I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rust, Go, and TypeScript. Elsewhere: [shottah.xyz](https://shottah.xyz).
+
+### Things I've built
+
+- **[tracer](https://github.com/shottah/tracer)** — headless EVM transaction inspector in Rust: call traces, balance changes, fund flows, anvil-fork tracing. An open-source Phalcon/Tenderly alternative.
+- **[expo-focus-menu](https://github.com/shottah/expo-focus-menu)** — iMessage-style long-press menus as an Expo module (Swift underneath).
+- **[expo-assistant](https://github.com/shottah/expo-assistant)** — declarative SiriKit integrations for Expo.
+
+<table><tr><td valign="top" width="50%">
+
+### Recent releases
+
+<!-- releases starts -->
+[tracer v0.1.1](https://github.com/shottah/tracer/releases/tag/v0.1.1) — 2026-06-10
+
+[tracer v0.1.0](https://github.com/shottah/tracer/releases/tag/v0.1.0) — 2026-06-10
+
+[expo-focus-menu v0.3.1](https://github.com/shottah/expo-focus-menu/releases/tag/v0.3.1) — 2025-12-02
+
+[expo-focus-menu v0.3.0](https://github.com/shottah/expo-focus-menu/releases/tag/v0.3.0) — 2025-12-01
+<!-- releases ends -->
+
+</td><td valign="top" width="50%">
+
+### Recent PRs
+
+<!-- prs starts -->
+✅ [shottah/lineup#51](https://github.com/shottah/lineup/pull/51) feat(web): calendar week view as a drag-and-drop time-grid — 2026-07-19
+
+✅ [shottah/lineup#50](https://github.com/shottah/lineup/pull/50) fix: unwatch toggle, fresh-seed regenerate, swap alternate cleanup,… — 2026-07-17
+
+✅ [shottah/lineup#49](https://github.com/shottah/lineup/pull/49) docs: data model UML class diagram — 2026-07-17
+
+✅ [shottah/portfolio#11](https://github.com/shottah/portfolio/pull/11) feat: add apps dropdown to sidebar (tracer) — 2026-06-13
+
+✅ [shottah/portfolio#10](https://github.com/shottah/portfolio/pull/10) feat: credit-vs-cash article + homepage articles nav — 2026-06-13
+<!-- prs ends -->
+
+</td></tr></table>
+
+<sub>Rebuilt nightly by [GitHub Actions](https://github.com/shottah/shottah/blob/main/.github/workflows/build.yml) — the documentation reads itself now.</sub>
