@@ -25,15 +25,11 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 ### Pull requests
 
 <!-- prs starts -->
+[shottah/lineup#53](https://github.com/shottah/lineup/pull/53) feat(web): current-time line, rule-free gutter, drag-only calendar … — merged 2026-08-11
+
+[shottah/lineup#52](https://github.com/shottah/lineup/pull/52) perf(web): smooth calendar drag via DragOverlay with snapped live p… — merged 2026-08-11
+
 [shottah/lineup#51](https://github.com/shottah/lineup/pull/51) feat(web): calendar week view as a drag-and-drop time-grid — merged 2026-07-19
-
-[shottah/lineup#50](https://github.com/shottah/lineup/pull/50) fix: unwatch toggle, fresh-seed regenerate, swap alternate cleanup,… — merged 2026-07-17
-
-[shottah/lineup#49](https://github.com/shottah/lineup/pull/49) docs: data model UML class diagram — merged 2026-07-17
-
-[shottah/portfolio#11](https://github.com/shottah/portfolio/pull/11) feat: add apps dropdown to sidebar (tracer) — merged 2026-06-13
-
-[shottah/portfolio#10](https://github.com/shottah/portfolio/pull/10) feat: credit-vs-cash article + homepage articles nav — merged 2026-06-13
 <!-- prs ends -->
 
 </td></tr></table>
