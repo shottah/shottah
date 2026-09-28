@@ -25,6 +25,12 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 ### Pull requests
 
 <!-- prs starts -->
+[shottah/tracer#9](https://github.com/shottah/tracer/pull/9) feat(example): SEO metadata, robots, sitemap and share cards — merged 2026-09-27
+
+[shottah/tracer#8](https://github.com/shottah/tracer/pull/8) feat(example): GA4 page views and custom trace events — merged 2026-09-27
+
+[shottah/tracer#7](https://github.com/shottah/tracer/pull/7) feat(example): recently inspected feed on the home page — merged 2026-09-27
+
 [shottah/lineup#53](https://github.com/shottah/lineup/pull/53) feat(web): current-time line, rule-free gutter, drag-only calendar … — merged 2026-08-11
 
 [shottah/lineup#52](https://github.com/shottah/lineup/pull/52) perf(web): smooth calendar drag via DragOverlay with snapped live p… — merged 2026-08-11
