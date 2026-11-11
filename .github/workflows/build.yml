@@ -25,12 +25,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: go run build_readme.go
+      - name: Redraw nagare river
+        uses: monex00/nagare@aa72e450767bbc847277e5d9d378cfbbf23c6346 # main, 2026-11-11
+        with:
+          # a personal token adds private activity (never repo names); falls back to public only
+          token: ${{ secrets.NAGARE_TOKEN || github.token }}
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet README.md; then
-            git add README.md
+          git add README.md nagare/nagare.svg
+          if ! git diff --cached --quiet; then
             git commit -m "chore: rebuild README"
             git push
           fi

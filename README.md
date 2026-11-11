@@ -6,6 +6,8 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 - **[expo-focus-menu](https://github.com/shottah/expo-focus-menu)** — iMessage-style long-press menus as an Expo module (Swift underneath).
 - **[expo-assistant](https://github.com/shottah/expo-assistant)** — declarative SiriKit integrations for Expo.
 
+<img src="nagare/nagare.svg" width="100%" alt="A year of my GitHub activity drawn as an ink river, one koi per project" />
+
 <table><tr><td valign="top" width="50%">
 
 ### Releases
