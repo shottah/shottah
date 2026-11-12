@@ -27,6 +27,8 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 ### Pull requests
 
 <!-- prs starts -->
+[shottah/shottah#1](https://github.com/shottah/shottah/pull/1) Add a nagare koi river of the past year — merged 2026-11-11
+
 [strata-lab/foundations#1](https://github.com/strata-lab/foundations/pull/1) Fix the public-facing claims in our only public repository — opened 2026-10-06
 
 [shottah/tracer#9](https://github.com/shottah/tracer/pull/9) feat(example): SEO metadata, robots, sitemap and share cards — merged 2026-09-27
@@ -36,8 +38,6 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 [shottah/tracer#7](https://github.com/shottah/tracer/pull/7) feat(example): recently inspected feed on the home page — merged 2026-09-27
 
 [shottah/lineup#53](https://github.com/shottah/lineup/pull/53) feat(web): current-time line, rule-free gutter, drag-only calendar … — merged 2026-08-11
-
-[shottah/lineup#52](https://github.com/shottah/lineup/pull/52) perf(web): smooth calendar drag via DragOverlay with snapped live p… — merged 2026-08-11
 <!-- prs ends -->
 
 </td></tr></table>
