@@ -27,6 +27,8 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 ### Pull requests
 
 <!-- prs starts -->
+[shottah/lineup#60](https://github.com/shottah/lineup/pull/60) test(store): cover cross-user isolation for every guide operation — merged 2026-11-25
+
 [shottah/quizroom#1](https://github.com/shottah/quizroom/pull/1) docs: add demo GIFs and a progress screenshot to the README — merged 2026-11-20
 
 [shottah/shottah#1](https://github.com/shottah/shottah/pull/1) Add a nagare koi river of the past year — merged 2026-11-11
@@ -36,8 +38,6 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 [shottah/tracer#9](https://github.com/shottah/tracer/pull/9) feat(example): SEO metadata, robots, sitemap and share cards — merged 2026-09-27
 
 [shottah/tracer#8](https://github.com/shottah/tracer/pull/8) feat(example): GA4 page views and custom trace events — merged 2026-09-27
-
-[shottah/tracer#7](https://github.com/shottah/tracer/pull/7) feat(example): recently inspected feed on the home page — merged 2026-09-27
 <!-- prs ends -->
 
 </td></tr></table>
