@@ -27,17 +27,17 @@ I build payments infrastructure, EVM tooling, and Expo modules — mostly in Rus
 ### Pull requests
 
 <!-- prs starts -->
-[shottah/lineup#60](https://github.com/shottah/lineup/pull/60) test(store): cover cross-user isolation for every guide operation — merged 2026-11-25
+[strata-lab/lineup#66](https://github.com/strata-lab/lineup/pull/66) fix: schedule guides in the user's timezone with rentals, back-to-b… — merged 2026-11-26
+
+[strata-lab/lineup#65](https://github.com/strata-lab/lineup/pull/65) feat: wire firebase web config, app hosting cors, and deploy trigger — merged 2026-11-26
+
+[strata-lab/lineup#64](https://github.com/strata-lab/lineup/pull/64) fix(api): serve health check at /health — merged 2026-11-25
 
 [shottah/quizroom#1](https://github.com/shottah/quizroom/pull/1) docs: add demo GIFs and a progress screenshot to the README — merged 2026-11-20
 
 [shottah/shottah#1](https://github.com/shottah/shottah/pull/1) Add a nagare koi river of the past year — merged 2026-11-11
 
-[strata-lab/foundations#1](https://github.com/strata-lab/foundations/pull/1) Fix the public-facing claims in our only public repository — opened 2026-10-06
-
 [shottah/tracer#9](https://github.com/shottah/tracer/pull/9) feat(example): SEO metadata, robots, sitemap and share cards — merged 2026-09-27
-
-[shottah/tracer#8](https://github.com/shottah/tracer/pull/8) feat(example): GA4 page views and custom trace events — merged 2026-09-27
 <!-- prs ends -->
 
 </td></tr></table>
